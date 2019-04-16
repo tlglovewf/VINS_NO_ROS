@@ -1,0 +1,7 @@
+the database is euroc http://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets
+
+/Volumes/mac/SlamResources/VINS_GPS_OSX/config/euroc/euroc_config.yaml
+set resources path
+
+need pangolin. 
+
